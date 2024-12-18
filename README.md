@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sondos 👋
 
-<!--
-**SondosAbodahab/SondosAbodahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on Angular and JavaScript. I love building intuitive,
+user-friendly applications and am constantly learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I have been working at Banque Misr for two and a half years.
+- 💬 Ask me about **Angular**, **JavaScript**, **Frontend Development**, and **Web Design**.
+- 📫 How to reach me: [sondos.ahmed031@gmail.com](mailto:sondos.ahmed031@gmail.com).
+  
+## 💻 Technologies & Tools
+I work with a wide range of technologies, some of which include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**:
+  - Angular, React, Vue 
+  - HTML, CSS, SCSS
+  - Angular Material, Tailwind
+  - JavaScript/TypeScript
+
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB
+  - JWT Authentication
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SondosAbodahab&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🌱 Currently Learning
+I'm always working on improving my skills. Currently, I'm focused on:
+- Advanced **Angular** topics
+- Backend development with **Node.js** and **MongoDB**
+- Improving my **problem-solving** and **algorithms** skills
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/sondos-abo-dahab/)
+
+Feel free to check out my repositories and let me know if you have any questions or suggestions. 😊
