@@ -23,9 +23,6 @@ I work with a wide range of technologies, some of which include:
   - MongoDB
   - JWT Authentication
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SondosAbodahab&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## 🌱 Currently Learning
 I'm always working on improving my skills. Currently, I'm focused on:
 - Advanced **Angular** topics
