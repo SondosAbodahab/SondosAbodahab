@@ -1,4 +1,4 @@
-# Hi, I'm Sondos 👋
+# Hi, I'm Sondos Abodahab 👋
 
 Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on Angular and JavaScript. I love building intuitive,
 user-friendly applications and am constantly learning new technologies to improve my skills.
@@ -6,7 +6,7 @@ user-friendly applications and am constantly learning new technologies to improv
 ## 👨‍💻 About Me
 - 🔭 I have been working at Banque Misr for two and a half years.
 - 💬 Ask me about **Angular**, **JavaScript**, **Frontend Development**, and **Web Design**.
-- 📫 How to reach me: [sondos.ahmed031@gmail.com](mailto:sondos.ahmed031@gmail.com).
+
   
 ## 💻 Technologies & Tools
 I work with a wide range of technologies, some of which include:
@@ -21,7 +21,6 @@ I work with a wide range of technologies, some of which include:
   - Node.js
   - Express.js
   - MongoDB
-  - JWT Authentication
 
 ## 🌱 Currently Learning
 I'm always working on improving my skills. Currently, I'm focused on:
@@ -31,5 +30,6 @@ I'm always working on improving my skills. Currently, I'm focused on:
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sondos-abo-dahab/)
+- [sondos.ahmed031@gmail.com](mailto:sondos.ahmed031@gmail.com).
 
 Feel free to check out my repositories and let me know if you have any questions or suggestions. 😊
